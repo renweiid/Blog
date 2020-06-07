@@ -74,3 +74,11 @@
     font-family: monospace;
     font-size: larger;
 }
+#contact {
+    background-color: rgb(61, 56, 56);
+    color: linen;
+}
+.contact {
+    margin-top: 250px;
+    
+}
