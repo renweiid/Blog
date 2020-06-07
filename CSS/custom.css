@@ -58,6 +58,7 @@
 }
 .centre-card {
     padding-top: 10px;
+    font-weight: bolder;
 }
 .btn:hover {
     background-color: yellow;
@@ -86,5 +87,16 @@
 }
 .contact {
     margin-top: 250px;
-    
+}
+#about-us {
+    color: white;
+    font-family: monospace;
+}
+#about-heading {
+    border-bottom: yellow solid;
+    border-width: 8px;
+    color: white;
+}
+.form-group {
+    margin-top: 20px;
 }
